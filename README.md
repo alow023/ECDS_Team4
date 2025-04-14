@@ -6,11 +6,12 @@ Our team's objective is to identify common characteristics of fraudulent credit 
 
 ## Problem Definition
 ### How can we detect fraudulent e-commerce transactions using machine learning models based on transaction data?
-Are we able to identify patterns in fraudulent transactions?
+- Are we able to identify patterns in fraudulent transactions?
 
-Which aspect of credit transactions did these patterns arise?
+- Which aspect of credit transactions did these patterns arise?
 
-Which model would be best to predict if a credit transaction was fraudulent based on the identified factors?
+- Which model would be best to predict if a credit transaction was fraudulent based on the identified factors?
+
 
 ## Models Used
 - Lasso Regression
