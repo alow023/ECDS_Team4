@@ -36,9 +36,9 @@ We are able to identify fraudulent credit card transactions using machine learni
 - A significant proportion of fraudulent transactions involved only small amounts of money from about 5 to 30 pounds. 
 
 ## Contributions
-Data Cleaning, Initial Exploratory Data Analysis, Analysis of Model - Reina @reinachye
-Training of XGBoost, Training of Lasso Regression, Secondary Exploratory Data Analysis @alow023
-Data-driven Insights - Both
+- Data Cleaning, Initial Exploratory Data Analysis, Analysis of Model: Reina @reinachye
+- Training of XGBoost, Training of Lasso Regression, Secondary Exploratory Data Analysis: @alow023
+- Data-driven Insights: Both
 
 ## References
 - https://www.kaggle.com/datasets/anurag629/credit-card-fraud-transaction-data?resource=download
