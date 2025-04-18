@@ -12,6 +12,8 @@ Our team's objective is to identify common characteristics of fraudulent credit 
 
 - Which model would be best to predict if a credit transaction was fraudulent based on the identified factors?
 
+## Dataset Used
+[Credit Card Data]
 
 ## Models Used
 - Lasso Regression
