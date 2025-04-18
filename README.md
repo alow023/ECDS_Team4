@@ -37,7 +37,7 @@ We are able to identify fraudulent credit card transactions using machine learni
 
 ## Contributions
 - Data Cleaning, Initial Exploratory Data Analysis, Analysis of Model: Reina @reinachye
-- Training of XGBoost, Training of Lasso Regression, Secondary Exploratory Data Analysis: @alow023
+- Training of XGBoost, Training of Lasso Regression, Secondary Exploratory Data Analysis: Arissa @alow023
 - Data-driven Insights: Both
 
 ## References
