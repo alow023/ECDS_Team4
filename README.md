@@ -35,9 +35,13 @@ We decided to choose the top 5 features to identify patterns to predict if a tra
 - A significant proportion of fraudulent transactions involved only small amounts of money from about 5 to 30 pounds. 
 
 ## Contributions
-
+Data Cleaning, Initial Exploratory Data Analysis, Analysis of Model - Reina @reinachye
+Training of XGBoost, Training of Lasso Regression, Secondary Exploratory Data Analysis @alow023
+Data-driven Insights - Both
 
 ## References
 - https://www.kaggle.com/datasets/anurag629/credit-card-fraud-transaction-data?resource=download
 - https://scikit-learn.org/stable/api/sklearn.linear_model.html
-- 
+- https://www.nvidia.com/en-sg/glossary/xgboost/
+
+  
