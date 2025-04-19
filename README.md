@@ -13,7 +13,7 @@ Our team's objective is to identify common characteristics of fraudulent credit 
 - Which model would be best to predict if a credit transaction was fraudulent based on the identified factors?
 
 ## Dataset Used
-[Credit Card Data](https://raw.githubusercontent.com/alow023/ECDS_Team4/refs/heads/main/CreditCardData.csv?token=GHSAT0AAAAAADBQ7CU26HRDLZ4PX22NIPCU2ACNNXA)
+[Credit Card Data](https://entuedu-my.sharepoint.com/:x:/g/personal/alow023_e_ntu_edu_sg/EejhPRwZaxJPllHsHOzpKFoBp9jSAyNFBeQ6vifMYkJVEw?e=RxOcpB)
 
 ## Models Used
 - Lasso Regression
