@@ -1,4 +1,6 @@
 # Credit Card Fraud Detection
+Done by: Chye Rui Teng Reina, Low Shi-Jie Arissa 
+ECDS Team 4 
 
 ## About
 Our team's objective is to identify common characteristics of fraudulent credit transactions. We hope that our findings would allow for early detection and prevention, and also strengthen existing security measures to stay ahead of evolving fraudulent tactics. 
