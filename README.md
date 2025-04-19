@@ -49,5 +49,6 @@ We are able to identify fraudulent credit card transactions using machine learni
 - https://www.kaggle.com/datasets/anurag629/credit-card-fraud-transaction-data?resource=download
 - https://scikit-learn.org/stable/api/sklearn.linear_model.html
 - https://www.nvidia.com/en-sg/glossary/xgboost/
+- https://www.ibm.com/think/topics/lasso-regression#:~:text=Lasso%20regression%20is%20a%20regularization,regularization%20for%20linear%20regression%20models.
 
   
