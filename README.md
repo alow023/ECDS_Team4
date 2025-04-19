@@ -3,7 +3,8 @@ Done by: Chye Rui Teng Reina, Low Shi-Jie Arissa (ECDS Team 4)
 
 ## About
 Our team's objective is to identify common characteristics of fraudulent credit transactions. We hope that our findings would allow for early detection and prevention, and also strengthen existing security measures to stay ahead of evolving fraudulent tactics. 
-(can insert a pic here of our proj lol)
+(cover picture)![SC1015 Mini Project Slides](https://github.com/user-attachments/assets/87b26e0d-96e3-4dfb-994c-bc9fe839fb28)
+
 
 ## Problem Definition
 ### How can we detect fraudulent e-commerce transactions using machine learning models based on transaction data?
