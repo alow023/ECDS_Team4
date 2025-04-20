@@ -33,7 +33,7 @@ We decided to choose the top 5 features to identify patterns to predict if a tra
 
 ## Conclusion
 We are able to identify fraudulent credit card transactions using machine learning models. 
-- The top 5 most influential features include: Time of transaction, Merchant Group, Transaction Entry mode, whether the Country of Residence of the transactor was the same as the Country of Transaction, Amount transacted.
+The top 5 most influential features include: Time of transaction, Merchant Group, Transaction Entry mode, whether the Country of Residence of the transactor was the same as the Country of Transaction, Amount transacted.
 - Fraudulent transactions were more likely to happen from 12am to 6am
 - Merchant groups: Children, Electronics and Fashion were more susceptible to frauds.
 - Credit Verification Code entry mode was the most common entry mode for frauds
