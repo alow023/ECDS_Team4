@@ -23,7 +23,7 @@ Our team's objective is to identify common characteristics of fraudulent credit 
 - XGBoost
 
 ## 1. Data Extraction and Exploratory Analysis
-Data cleaning was carried out by removing null rows and irrelevant aspects of credit transactions. Pandas was used to visualise raw data, allowing us to identify the imbalance in the dataset, which we balanced using undersampling. 
+Data cleaning was carried out by removing null rows and irrelevant aspects of credit transactions. Pandas and seaborn were used to visualise raw data, allowing us to identify the imbalance in the dataset, which we balanced using undersampling. 
 
 ## 2. Machine Learning 
 Lasso regression was used to identify numeric features in our dataset which were important in identifying fraud cases. We then used XGBoost to identify both categorical and numeric variables which were the more influential features in the train set. The more important features are used higher up in the decision tree of the model and is prioritised in subsequent tree-building steps. The decision tree is then used to predict if transactions in the test set are fraudulent. 
